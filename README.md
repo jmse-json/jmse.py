@@ -1,4 +1,4 @@
-# jmse.py [![Latest Version][pypi-shield]][pypi-link] [![Build Status][build-image]][build-link] [![Apache 2.0 License][license-image]][license-link]
+# jmse.py [![Latest Version][pypi-image]][pypi-link] [![Build Status][build-image]][build-link] [![Apache 2.0 License][license-image]][license-link]
 
 Python implementation of JSON Message Signing and Encryption (JMSE):
 An interoperable, minimalist signing and encryption format for serialized
@@ -35,10 +35,10 @@ without any additional terms or conditions.
 
 [//]: # (badges)
 
-[pypi-shield]: https://img.shields.io/pypi/v/jmse.svg
+[pypi-image]: https://img.shields.io/pypi/v/jmse.svg
 [pypi-link]: https://pypi.python.org/pypi/jmse/
-[build-image]: https://secure.travis-ci.org/jmse-json/jmse.py.svg?branch=master
-[build-link]: http://travis-ci.org/jmse-json/jmse.py
+[build-image]: https://travis-ci.com/jmse-json/jmse.py.svg?branch=develop
+[build-link]: http://travis-ci.com/jmse-json/jmse.py
 [license-image]: https://img.shields.io/badge/license-Apache2.0-blue.svg
 [license-link]: https://github.com/jmse-json/jmse.js/blob/master/LICENSE
 
