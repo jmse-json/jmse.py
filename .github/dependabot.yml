@@ -1,0 +1,14 @@
+version: 2
+updates:
+- package-ecosystem: pip
+  directory: "/"
+  schedule:
+    interval: monthly
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: pytest
+    versions:
+    - 6.2.1
+  - dependency-name: ipython
+    versions:
+    - 7.19.0
